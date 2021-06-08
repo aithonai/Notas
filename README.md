@@ -1,16 +1,17 @@
 # Notas
+
 En este lugar publico notas, lo que pienso, lo que hago, etc.
 ::12:08
-inicio de estudio.
+Inicio de estudio.
 Estoy viendo un curso html5
 
-::2:24 
+::2:24
 estuve 2:02 minutos viendo el curso de html5.
 hora del descanso.
 
 ::3:33
 1h:07m minutos de descanso.
-hora de comer
+Hora de comer
 
 // 8 de Abril
 
@@ -28,7 +29,6 @@ Veré youtube.
 :: 21:50
 Iré a dormir.
 
-
 // 9 de Abril
 
 ::9:10
@@ -40,16 +40,13 @@ Empiezo a hacer cosas pero el internet no colabora.
 ::12:34
 Ya me liberé de lo que enviaron en classroom.
 
-
 // 10 de Abril
 
 ::10:28
 Instalando illustrator.
 
-
 //4 de mayo
 Llevo 2h:58m de estudio.
-
 
 //5 de mayo
 
@@ -68,18 +65,15 @@ llevo 4h:16m de estudio.
 ::18:31
 Llevo 5h:28m de estudio.
 
-
 //6 de mayo
 
 ::21:24
 Llevo 2h:33m de estudio.
 
-
 //7 de mayo
 
 ::20:29
 Llevo 3h:37m de estudio.
-
 
 //8 de mayo
 
@@ -92,7 +86,6 @@ Llevo 3h:00m de estudio.
 ::19:00
 Lo conseguí, 5 horas de estudio T_T
 
-
 //27 de mayo
 
 ::17:50
@@ -100,7 +93,6 @@ Inició a configurar mi wordpress
 
 ::20:23
 Aprendí a como usarlo un poco y configuré algunas cosas.
-
 
 //28 de mayo
 
@@ -110,7 +102,7 @@ Empiezo a configurar mi página y hacer un poco de código.
 ::11:32
 Estoy viendo un video de como diseñar bases de datos relacionales.
 
-::11:48 
+::11:48
 Terminé de verlo, aprendí algunas reglas y me dieron consejos de qué hacer según las necesidades.
 
 ::12:08
@@ -143,7 +135,6 @@ Una persona respondió mi duda, tengo cierta idea, no es nada concreto, pero lo 
 ::19:53
 Ya he hecho un par de cosas en el código, nada importante pero me gusta el pequeño cambio.
 
-
 // 1 de Junio
 
 ::11:28
@@ -151,7 +142,6 @@ Empiezo a ver nuevamente mi curso de Javascript, estoy decidido a terminarlo.
 
 ::14:43
 Me he visto unos 4 capítulos de mi curso.
-
 
 // 2 de Junio
 
@@ -162,8 +152,7 @@ Acabo de hacer un push de "presentation-page", he creado una nueva vista y he me
 Seguiré con mi página web.
 
 ::18:47
-Antes de que se fuera la luz por 20 minutos logré avanzar en la página pero me temo que tengo un pequeño problema con la navegación, el área del <a> es muy pequeña y necesito cambiar eso.
-
+Antes de que se fuera la luz por 20 minutos logré avanzar en la página pero me temo que tengo un pequeño problema con la navegación, el área del "a" es muy pequeña y necesito cambiar eso.
 
 // 3 de junio
 
@@ -178,4 +167,12 @@ Quizás en otro proyecto haré una página con dominio y hosting, ya he visto do
 Voy a subir este archivo a github.
 
 ::19:54
-Estoy planteandome hacer un horario, pero muy serio, escrito en papel y todo, tengo mucho tiempo sin escribir en una cosa de esas,  
+Estoy planteandome hacer un horario, pero muy serio, escrito en papel y todo, tengo mucho tiempo sin escribir en una cosa de esas.
+
+// 8 de Junio
+
+::10:54
+Luego de que estuve fuera unos días por fin vuelvo, hoy el objetivo es intentar hacer la sección de "portafolio" en mi "presentacion-page".
+
+::12:24
+Ok me acabo de enterar que en mi universidad volveremos a ver clases presenciales en plena cuarentena, es horrible pero es mejor que verlas online, claro, siempre y cuando los profesores vayan a dar clases.
