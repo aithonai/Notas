@@ -176,3 +176,20 @@ Luego de que estuve fuera unos días por fin vuelvo, hoy el objetivo es intentar
 
 ::12:24
 Ok me acabo de enterar que en mi universidad volveremos a ver clases presenciales en plena cuarentena, es horrible pero es mejor que verlas online, claro, siempre y cuando los profesores vayan a dar clases.
+
+::19:47
+Acabo de hacer un merge de master a dev, ya quisiera aprender git a profundidad, estoy emocionado porque sé que algún día va a tocar, estoy emocionado porque algún día llegue.
+
+::20:12
+Voy a ver si puedo hacer mi navbar responsive de manera eficiente, ya con terminar de hacerlo responsive estaría terminado y podría continuar con mis secciones de la página.
+
+// 9  de Junio
+
+::18:32
+Bueno efectivamente hay clases presenciales, me tocó ir.
+
+// 15 de Junio
+
+::10:45
+Luego de que me hayan arreglado los problemas con mi internet
+por fin estoy de vuelta.
