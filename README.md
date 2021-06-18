@@ -193,3 +193,26 @@ Bueno efectivamente hay clases presenciales, me tocó ir.
 ::10:45
 Luego de que me hayan arreglado los problemas con mi internet
 por fin estoy de vuelta.
+
+// 17 de Junio
+
+::11:21
+Estoy reinstalando mi SO linux mint, y he aprendido un poco de mi errores en el proceso
+He instalado nuevamente sublime, vs code, git, y la verdad, todo fué exelente, muy rápido y 
+atrevo a decir que hasta cómodo.
+
+Aprendí las diferencias entre apt y apt-get, yo pensaba que eran lo mismo o_o*
+
+::12:02
+Acabo de clonar mi "presentation-page" a mi otro pc, y todo correcto.
+
+::12:03
+Solucioné también el problema con el Repl de sublime cambiando unos .config, mi sublime ya está
+identico a como lo tengo en windows.
+
+::17:30
+Hoy solucioné mi primer "issue" de github, también hice merge de mi branch "responsive-navbar" con
+"master", eliminé "responsive-navbar" y hice el respectivo push, fué mágico ver como se solucionaba el issue con solo un commit ^-^.
+
+::21:40
+Buff, hoy hice un poco de todo, aprendí de linux investigando apt y apt-get, sé nuevos atajos de vs-code, hice un merge, arreglé los bugs del merge, hice nuevo código y ayudé a mis compañeros de universidad.
