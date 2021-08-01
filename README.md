@@ -216,3 +216,42 @@ Hoy solucioné mi primer "issue" de github, también hice merge de mi branch "re
 
 ::21:40
 Buff, hoy hice un poco de todo, aprendí de linux investigando apt y apt-get, sé nuevos atajos de vs-code, hice un merge, arreglé los bugs del merge, hice nuevo código y ayudé a mis compañeros de universidad.
+
+// 18 de Julio
+
+::09:12
+Hoy por fin es domingo, mi día libre, pero sinceramente ayer no tenía luz en mi casa, y no por ello no pude hacer nada productivo, y de verdad tenía ganas de hacer ejercicios de DOM en JS, así que lo haré hoy.
+
+No tengo mucho que hacer la verdad, si me canso de hacerlo solo lo dejo y me relajo viendo cualquier cosa en youtube, pero de momento, quiero aprender así sea mi dia libre :D
+
+Estos últimos días he avanzado bastante he hecho varios ejercicios en JS del profesor Jonmircha, y me han ayudado para avanzar y comprender más el lenguaje, y descubrir cosas últiles como "La delegación de eventos" y bueno, a repasar lo que ya había aprendido antes.
+
+
+// 31 de Julio
+
+::23:30
+Terminé el día con 5 horas y 38 minutos de trabajo.
+
+
+// 1 de Agosto
+
+::09:19
+Hoy estoy listo para continuar con un ejercicio que dejé pendiente ayer.
+
+Hoy se aprende!
+
+Estoy planteandome aprender en paralelo una librería de testing, estoy pensando en jest, pero como sea, cualquier librería para testing me sirve.
+
+::19:31
+Buff, terminé mi día con 8 horas y media de trabajo, aunque es aproximado ya que a veces se me olvida parar el reloj para hacer algunas cosas.
+
+Me esforcé mucho. Creo que jamás en mi vida había hecho tantos commits y hasta hice merge con una branch solo por diversión para recordar como se hacía.
+
+Acabo de ver y hice 7 commits y bueno, el merge como era local no se nota en el github.
+
+También es la primera vez que trabajo 8 horas, por lo menos que yo lo haya medido.
+
+Mañana tengo pensado terminar este proyecto de una vez por todas y continuar con otra cosa.
+
+
+
