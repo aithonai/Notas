@@ -254,4 +254,12 @@ También es la primera vez que trabajo 8 horas, por lo menos que yo lo haya medi
 Mañana tengo pensado terminar este proyecto de una vez por todas y continuar con otra cosa.
 
 
+<h1> 24 de septiembre</h1>
 
+::08:52
+Hoy se me ocurrió la idea de usar Markdown como se debe, mi primer paso fué crear el h1 de arriba :P
+
+Hace mucho que no escribo, cosas que pasan cuando no te acuerdas de hacer el git clone de tu propio diario de notas ._.
+últimamente me siento motivado porque he avanzado bastante en cuanto a conocimiento.
+
+Ahora tengo nociones básicas de React, se un poquito de test que es algo que quiero mejorar, ahora me quiero concentrar en seguir aprendiendo React y bueno, con el beneficio de algún día aprender React Native y Electron para hacer lo que sea donde sea U-U
