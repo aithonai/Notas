@@ -263,3 +263,12 @@ Hace mucho que no escribo, cosas que pasan cuando no te acuerdas de hacer el git
 últimamente me siento motivado porque he avanzado bastante en cuanto a conocimiento.
 
 Ahora tengo nociones básicas de React, se un poquito de test que es algo que quiero mejorar, ahora me quiero concentrar en seguir aprendiendo React y bueno, con el beneficio de algún día aprender React Native y Electron para hacer lo que sea donde sea U-U
+
+<h1> 16 de Enero (2025)</h1>
+
+Viendo algunos videos de Platzi me han dado ganas de entrar en mi perfil y darme cuenta de que, pues, he dejado este camino hace mucho
+Ha servido para algo haber estudiado todo eso?, sí, la verdad, no me arrepiento, es difícil querer volver y pensar en "Me quedó grande esta carrera".
+
+En mi mente decía que soy perfecto para esto, ahora lo veo y pues... sí, tengo cierta chispa. reflexionando... esto ha descubierto mis puntos débiles, aunque como puedo culparme, solo yo sé que problemas he acarreado.
+
+Espero poder hacer algo con esto, y no dejar este perfil como Lost Media de mi mismo.
